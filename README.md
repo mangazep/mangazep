@@ -1,6 +1,6 @@
 <p>
   <a href="https://mangazep.com" target="_blank">
-    <img alt="Banner" src="./img/" width="100%" />
+    <img alt="Banner" src="./img/banner.png" width="100%" />
   </a>
 </p>
 
@@ -17,7 +17,7 @@ Check out [mangazep .dev](https://mangazep.dev/) for personal work and a deeper 
 ### Languages
 
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=kotlin,java,dart,php,js,py&theme=light" />
+    <img src="https://skillicons.dev/icons?i=kotlin,java,dart,php,js&theme=light" />
 </p>
 
 ### Mobile Development
@@ -35,7 +35,7 @@ Check out [mangazep .dev](https://mangazep.dev/) for personal work and a deeper 
 ### Backend Development
 
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=laravel,flask&theme=light" />
+    <img src="https://skillicons.dev/icons?i=laravel&theme=light" />
 </p>
 
 ### Database
